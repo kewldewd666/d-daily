@@ -21,6 +21,8 @@ Update Names
 # for key, value in alpha_employees.iteritems():
 #     print key
 
+#print alpha_employees
+
 num = 1
 for key, value in alpha_employees.iteritems():
     wks.update_cell(num, 2, key)
