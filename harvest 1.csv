@@ -1,0 +1,46 @@
+Date,Client,Project,Project Code,Task,Notes,Hours,Hours Rounded,Started At,Ended At,Billable?,Invoiced?,First Name,Last Name,Department,Employee?,Billable Rate,Billable Amount,Cost Rate,Cost Amount,Currency
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Admin,email,0.02,0.25,8:06am,8:07am,Yes,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Design,"",0.47,0.5,8:08am,8:36am,Yes,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Phone Call,"",0.03,0.25,8:36am,8:38am,No,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Design,"",0.27,0.5,8:37am,8:53am,Yes,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Waiting For Work,"",3.62,3.75,8:40am,12:17pm,No,No,Madeleine,Reber,Design,Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Training,prepping files for Erin's arrival to work on,0.45,0.5,8:57am,9:24am,No,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Training,Observing Shannon,1.4,1.5,9:06am,10:30am,No,No,Erin,Chanfrau,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1035 CB LA,Huberman Portfolio- Ventura County,18616,Revisions ,"",2.01,2.25,9:05am,11:05am,Yes,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Training,"",1.08,1.25,9:24am,10:29am,No,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,105 CB Charlotte,"Wells Fargo Center, 15 S Main St, Greenville, SC",18519,Design,"",1.55,1.75,9:30am,11:03am,Yes,No,Mattea,Bertling,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Waiting For Work,"",2.12,2.25,10:14am,12:21pm,No,No,Ramon,Rodriguez,Design,Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1044 CBRE Raleigh,4161 Piedmont Parkway OM,18652,Revisions ,"",0.62,0.75,10:28am,11:05am,Yes,No,Danielle,Dillon,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Meeting,"",0.82,1.0,11:03am,11:52am,No,No,Mattea,Bertling,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,132 Kidder Seattle,Dan Swanson-Just Sold + Just Listed Postcard,18680,Bindery,"",0.83,1.0,10:14am,11:04am,Yes,No,Meghan,Beers,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Meeting,"",1.17,1.25,11:04am,12:14pm,No,No,Meghan,Beers,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Meeting,"",0.9,1.0,11:05am,11:59am,No,No,Danielle,Dillon,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Meeting,"",0.82,1.0,11:05am,11:54am,No,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Meeting,Christmas Card email,0.22,0.25,11:59am,12:12pm,No,No,Danielle,Dillon,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1035 CB LA,Huberman Portfolio- Ventura County,18616,Revisions ,"",0.1,0.25,11:55am,12:01pm,Yes,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1035 CB LA,IDI Stockton,18644,Revisions ,"",0.32,0.5,12:00pm,12:19pm,Yes,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Training,Observing Shannon,0.28,0.5,12:05pm,12:22pm,No,No,Erin,Chanfrau,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Admin,checking out new site,0.05,0.25,12:08pm,12:11pm,No,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Design,cover changes,0.1,0.25,12:11pm,12:17pm,Yes,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,132 Kidder Seattle,Dan Swanson-Just Sold + Just Listed Postcard,18680,Bindery,"",1.58,1.75,12:14pm,1:49pm,Yes,No,Meghan,Beers,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,105 CB Charlotte,"Wells Fargo Center, 15 S Main St, Greenville, SC",18519,Design,"",1.02,1.25,11:53am,12:54pm,Yes,No,Mattea,Bertling,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Design,cover changes,1.17,1.25,12:21pm,1:31pm,Yes,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Design,Covers,1.23,1.25,12:23pm,1:37pm,Yes,No,Erin,Chanfrau,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1044 CBRE Raleigh,4161 Piedmont Parkway OM,18652,Revisions ,Phone call,1.52,1.75,12:15pm,1:46pm,Yes,No,Danielle,Dillon,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1035 CB LA,Huberman Portfolio- Ventura County,18616,Revisions ,"",2.24,2.25,1:21pm,3:36pm,Yes,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,Two Pershing,18202,Revisions ,"",0.08,0.25,1:30pm,1:35pm,Yes,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Training,"",0.72,0.75,1:36pm,2:19pm,No,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Training,Observing Shannon,0.68,0.75,1:37pm,2:18pm,No,No,Erin,Chanfrau,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1044 CBRE Raleigh,4161 Piedmont Parkway OM,18652,Revisions ,"",2.9,3.0,1:46pm,4:40pm,Yes,No,Danielle,Dillon,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Design,"",1.37,1.5,2:18pm,3:40pm,Yes,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Design,Aerials,1.27,1.5,2:18pm,3:34pm,Yes,No,Erin,Chanfrau,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1044 CBRE Raleigh,4161 Piedmont Parkway OM,18652,Revisions ,"",2.17,2.25,2:25pm,4:35pm,Yes,No,Meghan,Beers,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Waiting For Work,"",0.85,1.0,12:54pm,1:45pm,No,No,Mattea,Bertling,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1099 Cushman SF,340 Townsend Street,18677,Revisions ,"",1.08,1.25,2:27pm,3:32pm,Yes,No,Mattea,Bertling,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1035 CB LA,IDI Stockton,18644,Revisions ,"",0.79,1.0,3:36pm,4:23pm,Yes,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,302 CB Dallas,500 E 8th St (AT&T Bldg KC),18615,Design,"",0.88,1.0,3:41pm,4:34pm,Yes,No,Shannon,Coffey,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,105 CB Charlotte,"Wells Fargo Center, 15 S Main St, Greenville, SC",18519,Design,"",1.43,1.5,3:43pm,5:09pm,Yes,No,Mattea,Bertling,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1035 CB LA,Huberman Portfolio- Ventura County,18616,Revisions ,"",1.09,1.25,4:23pm,5:28pm,Yes,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,National Color,IT & Admin,"",Project Management,JOb tracker,0.22,0.25,4:40pm,4:53pm,No,No,Danielle,Dillon,"",Yes,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1035 CB LA,IDI Stockton,18644,Revisions ,"",0.24,0.25,5:29pm,5:43pm,Yes,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
+11/20/2015,1035 CB LA,Huberman Portfolio- Ventura County,18616,Revisions ,"",0.45,0.5,5:43pm,6:10pm,Yes,No,Sergio,Rodriguez,"",No,0.0,0.0,0.0,0.0,United States Dollar - USD
