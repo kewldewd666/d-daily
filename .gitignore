@@ -29,6 +29,7 @@ ddaily-982286e5cb7b.json
 *.log
 *.sql
 *.sqlite
+*.csv
 
 # OS generated files #
 ######################
