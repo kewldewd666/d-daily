@@ -90,6 +90,9 @@ for employee in employee_hours:
     harvest_billed = employee_hours[employee][1]
     harvest_total = employee_hours[employee][2]
     clock_total = employee_hours[employee][3]
+    # set to harvest total if they don't clock in
+    if clock_total == 0.0:
+        clock_total = harvest_total
     harvest_perc = percentage(harvest_total, clock_total)
     billed_perc = percentage(harvest_billed, clock_total)
 

@@ -22,23 +22,24 @@ wks = gc.open("test-sheet").sheet1
 Update Names (doesn't want to work in a fucntion)
 '''
 
-
-num = 2
-for key, value in alpha_employees.iteritems():
-    wks.update_cell(num, 2, key)
-    num += 1
+def write_dic_keys(row, col):
+    num = row
+    for key, value in alpha_employees.iteritems():
+        wks.update_cell(num, col, key)
+        num += 1
 
 '''
 writes down ONE column from an ordered dictionary with lists,
 starting at a specific index of the lists
 '''
 
-
 def write_col_from_dic_wlists(dic, start_row, start_col, list_index):
     for key, value in dic.iteritems():
         wks.update_cell(start_row, start_col, value[list_index])
         start_row += 1
-
+'''
+writes multiple columns, one from each value of a dict's list
+'''
 
 def write_many_columns_of_dic_wlists(dic, start_row, start_col):
     i = 0
@@ -49,4 +50,10 @@ def write_many_columns_of_dic_wlists(dic, start_row, start_col):
         start_col += 1
         i += 1
 
-write_many_columns_of_dic_wlists(alpha_employees, 2, 3)
+def write_out_dict(dic, row, col):
+    write_dic_keys(row, col)
+    write_many_columns_of_dic_wlists(dic, row, col + 1)
+
+#write_out_dict(alpha_employees, 2,2)
+
+print alpha_employees
