@@ -6,7 +6,7 @@ employee_hours = {}
 
 def create_employee(name):
     '''
-    [billed hours, unbilled hours, clock hours, hrvt %, billed %]
+    [billed hours, unbilled hours, hrvst total, clock hours, hrvst %, billed %]
     '''
     employee_hours[name] = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
 
@@ -91,7 +91,10 @@ for employee in employee_hours:
     harvest_total = employee_hours[employee][2]
     clock_total = employee_hours[employee][3]
     # set to harvest total if they don't clock in
+    # set the value as well so the spreadsheet reads correctly
+    #
     if clock_total == 0.0:
+        employee_hours[employee][3] = harvest_total
         clock_total = harvest_total
     harvest_perc = percentage(harvest_total, clock_total)
     billed_perc = percentage(harvest_billed, clock_total)

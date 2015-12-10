@@ -54,6 +54,4 @@ def write_out_dict(dic, row, col):
     write_dic_keys(row, col)
     write_many_columns_of_dic_wlists(dic, row, col + 1)
 
-#write_out_dict(alpha_employees, 2,2)
-
-print alpha_employees
+write_out_dict(alpha_employees, 2,2)
