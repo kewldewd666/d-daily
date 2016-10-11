@@ -65,8 +65,8 @@ for row in csv_f:
 
 '''
 ------------Process the Icon CSV file---------------
-     First           Last          Hours
-     row[0]         row[2]        row[27]
+     First           Last          Hours       OT1         OT2
+     row[0]         row[2]        row[27]     row[28]    row[2]
 '''
 
 g = open('icon.csv')
@@ -75,7 +75,8 @@ g.next()
 
 for row in csv_g:
     name = row[0]
-    mins = round(float(row[27]), 2)
+    #don't forget overtime in rows 28 and 29
+    mins = round(float(row[27]) + float(row[28]) + float(row[29]), 2)
     hours = round(mins/60, 2)
     if name not in employee_hours:
         create_employee(name)
